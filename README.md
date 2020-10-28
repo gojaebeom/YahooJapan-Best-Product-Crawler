@@ -1,6 +1,6 @@
 ## 야후(일본) 베스트 상품 크롤러 🚀
 ![이미지](https://github.com/gojaebeom/YahooJapan-Best-Product-Crawler/blob/main/thumbnail.png)
-💡 CORS 등 보안사항이 있어 직접 아마존 사이트에 들어가 DOM을 변조하여 크롤링하는 방법을 사용합니다.
+💡 CORS 등 보안사항이 있어 직접 야후제펜 사이트에 들어가 DOM을 변조하여 크롤링하는 방법을 사용합니다.
 
 ### 사용 목적 
 - 야후 제펜의 인기 상품의 데이터 수집
